@@ -1,20 +1,19 @@
 #-*- mode: mandoku-view; -*-
-#+DATE: 2015-08-30 20:36:54.492237
+#+DATE: 2015-08-30 20:36:55.846218
 #+TITLE: 佛說辟除賊害呪經
 #+PROPERTY: CBETA_ID T21n1406
 #+PROPERTY: ID KR6j0638
 #+PROPERTY: SOURCE Taisho Tripitaka Vol. 21, No. 1406
 #+PROPERTY: VOL 21
 #+PROPERTY: BASEEDITION T
-#+PROPERTY: WITNESS CBETA
+#+PROPERTY: WITNESS T
 #+PROPERTY: LASTPB <pb:KR6j0638_T_000-0922a>¶¶¶¶
 #+PROPERTY: LASTPB <pb:KR6j0638_T_001-0922a> ¶¶¶
 #+PROPERTY: JUAN 1
 ¶
 ¶
-No.1406¶
-
- 佛說辟除賊害呪經¶
+No. 1406¶
+佛說辟除賊害呪經¶
 ¶
 
 南無佛南無法南無比丘僧。南無過去七佛。¶
@@ -27,8 +26,8 @@ No.1406¶
 
 有四姊弟。何等為四。¶
 
-安檀尼　閻摩尼　𤺦摩尼　無呵尼　安¶
-檀尼　令賊目盲　無訶尼　令賊住　𤺦¶
+安檀尼　閻摩尼　[痞-不+(券-刀+土)]摩尼　無呵尼　安¶
+檀尼　令賊目盲　無訶尼　令賊住　[痞-不+(券-刀+土)]¶
 摩尼　令賊坐　無呵尼　令賊愚癡　癡如¶
 是　漚羅利　無羅利　壇坻遮　波頭摩¶
 　遮迦利　當使賊　口齒噤　至解縷　乃得¶
