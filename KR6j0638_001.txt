@@ -1,20 +1,19 @@
-#-*- mode: mandoku-view; -*-
-#+DATE: 2015-08-30 20:36:54.492237
+# -*- mode: mandoku-view; -*-
+#+DATE: 2016-06-08 11:42
 #+TITLE: 佛說辟除賊害呪經
 #+PROPERTY: CBETA_ID T21n1406
 #+PROPERTY: ID KR6j0638
 #+PROPERTY: SOURCE Taisho Tripitaka Vol. 21, No. 1406
 #+PROPERTY: VOL 21
 #+PROPERTY: BASEEDITION T
-#+PROPERTY: WITNESS CBETA
+#+PROPERTY: WITNESS master
 #+PROPERTY: LASTPB <pb:KR6j0638_T_000-0922a>¶¶¶¶
 #+PROPERTY: LASTPB <pb:KR6j0638_T_001-0922a> ¶¶¶
 #+PROPERTY: JUAN 1
 ¶
 ¶
-No.1406¶
-
- 佛說辟除賊害呪經¶
+No. 1406¶
+佛說辟除賊害呪經¶
 ¶
 
 南無佛南無法南無比丘僧。南無過去七佛。¶
